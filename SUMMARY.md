@@ -41,4 +41,4 @@
 * [Credits](whitepaper/credits.md)
 
 ## Disclaimer 
-[Read Disclaimer](whitepaper/disclaimer.md)
+* [Read Disclaimer](whitepaper/disclaimer.md)
