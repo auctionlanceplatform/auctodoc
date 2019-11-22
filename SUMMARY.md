@@ -1,8 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Auctionlance Whitepaper](README.md)
 
-## Whitepaper
+## Overview of the market
 
-* [Untitled](whitepaper/untitled.md)
+* [Already existing problems](existing-problems.md)
 
+## Overview of Auctionlance
+* [Overview of Auctionlance](overview-auctionlance)
