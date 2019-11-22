@@ -18,6 +18,7 @@
 * [Token sales and funds management](whitepaper/token-sale.md)
 
 ## Road map
+* [Project Progress](whitepaper/roadmap.md)
 * [2020 Development Roadmap](whitepaper/roadmap.md)
 
 ## AuctoNode
