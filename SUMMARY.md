@@ -21,9 +21,12 @@
 * [2020 Development Roadmap](whitepaper/roadmap.md)
 
 ## AuctoNode
-* [What is AuctoNode[(whitepaper/what-is-auctonode.md)
+* [What is AuctoNode](whitepaper/what-is-auctonode.md)
 * [How AuctoNode Works](whitepaper/how-auctonode-works.md)
 * [Earning Monthly Passive Income](whitepaper/auctonode-earn.md)
+
+## Auctionlance Enterprise
+* [What is Auctionlance Enterprise](whitepaper/enterprise.md)
 
 ## Auctionlance Platform Team
 * [Our company](whitepaper/company.md)
@@ -31,7 +34,11 @@
 * [Partners & Clients](whitepaper/partners.md)
 
 ## Contact Us
+* [Connect With Us](whitepaper/aucto-social.md)
+* [Support Service](whitepaper/aucto-connect.md)
 
 ## Reference
+* [Credits](whitepaper/credits.md)
 
 ## Disclaimer 
+[Read Disclaimer](whitepaper/disclaimer.md)
