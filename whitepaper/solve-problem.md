@@ -21,3 +21,15 @@ We charge clients and freelancers 3% of total service cost. No hidden fees, no w
 
 ###### Blockchain secured transactions
 Transactions can easily be traced using the Waves explorer tool. This secures the system from misleading fraudulent rating and reviews.
+
+## OUR CORE SOLUTION MECHANISM
+
+###### Smart Linkup
+Most clients spend time searching for their choice freelancer based on looks, country and social status; which are easily faked using VPN services. We built in a custom freelancer onboarding algorithm, this helps us serve only professional freelancers to clients.
+
+###### Security
+Our platform is built on top notch web technologies. Hosted on secured servers which are capability of scaling on huge platform traffic. We use netlify web hosting services alongside security back up service offered by Cloud flare security service.
+
+###### Smart Payment and Withdrawal
+Prolonged cash out is a huge problem with the current freelance model. With the almost transaction speed of Waves blockchain, our system
+guarantee an almost-instant withdrawal option for freelancers after they delivered job.
